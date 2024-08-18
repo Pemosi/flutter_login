@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313939281891",
+    "project_id": "karafure-3b2ae",
+    "storage_bucket": "karafure-3b2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313939281891:android:35d492a0e6c4ea149302d6",
+        "android_client_info": {
+          "package_name": "com.example.login_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdx0I4ZfG_V1Bm6nNKkRTdPcJCkCn4zSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
